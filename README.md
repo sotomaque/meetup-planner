@@ -44,4 +44,4 @@ $ gulp serve
 ## License
 
 Apache 2.0  
-Copyright 2015 Justin Varghese John
+Copyright 2016 Enrique Sotomayor
